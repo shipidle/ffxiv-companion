@@ -1,0 +1,9 @@
+{
+  "name": "ffxiv-companion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "개인용 FFXIV 숙제와 목표 관리",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node server.mjs", "test": "node --test" }
+}
